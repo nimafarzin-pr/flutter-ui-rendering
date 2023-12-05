@@ -19,7 +19,7 @@ This tree represents the UI components as widgets. Widgets in Flutter are immuta
 Elements act as a bridge between the immutable widget tree and the mutable render object tree.
         Each element holds references to both a widget and a render object. Elements are skilled at comparing two objects, specifically the widget and the render object.
         Elements essentially represent the use of a widget to configure a specific location in the tree.
-
+The BuildContext passed in every build(BuildContext context) function is actually the corresponding Element wrapped into the BuildContext interface and that’s why it’s different for every single widget.
 ## 3.  Render Object Tree:
 
 The render object tree contains the logic for rendering the actual widgets. Render objects are more heavyweight and costly to instantiate.
