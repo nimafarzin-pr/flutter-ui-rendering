@@ -97,4 +97,10 @@ This separation lets you focus on UI design while Flutter handles the heavy lift
 
 I hope this table and analogy bring clarity to Flutter's unique UI rendering approach!
 
+## Additional resource:
+
+[How Flutter uses Widgets, Elements and RenderObjects to create delicious eye-candy at 120fps]([https://example.com](https://medium.com/flutter-community/the-layer-cake-widgets-elements-renderobjects-7644c3142401))
+[How Flutter renders Widgets]([https://example.com](https://youtu.be/996ZgFRENMs?si=b5qOR2rvaQP6ZCnl))
+[Flutter architectural overview]([https://example.com](https://docs.flutter.dev/resources/architectural-overview#layout-and-rendering)https://docs.flutter.dev/resources/architectural-overview#layout-and-rendering)
+
 
