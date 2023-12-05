@@ -103,6 +103,6 @@ I hope this table and analogy bring clarity to Flutter's unique UI rendering app
 
 - [How Flutter renders Widgets](https://youtu.be/996ZgFRENMs?si=b5qOR2rvaQP6ZCnl)
 
-- [Flutter architectural overview]((https://docs.flutter.dev/resources/architectural-overview#layout-and-rendering)https://docs.flutter.dev/resources/architectural-overview#layout-and-rendering)
+- [Flutter architectural overview](https://docs.flutter.dev/resources/architectural-overview#layout-and-rendering)
 
 
